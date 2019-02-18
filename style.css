@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding-top: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+  text-align: center;
+}
+
+.main button {
+  position: relative;
+  border: none;
+  padding: 8px;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.main button:active {
+  top: 1px;
+}
+/*# sourceMappingURL=style.css.map */
